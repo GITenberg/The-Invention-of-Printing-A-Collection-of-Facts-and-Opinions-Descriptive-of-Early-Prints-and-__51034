@@ -1,4 +1,8 @@
 _repo: The-Invention-of-Printing-A-Collection-of-Facts-and-Opinions-Descriptive-of-Early-Prints-and-__51034
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51034-h/images/cover.jpg
 creator:
   author:
     agent_name: De Vinne, Theodore Low
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '26015'
     url: http://www.gutenberg.org/2009/agents/26015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51034#The-Invention-of-Printing-A-Collection-of-Facts-and-Opinions-Descriptive-of-Early-Prints-and-_
 gutenberg_issued: '2016-01-25'
 gutenberg_type: Text
 identifiers:
